@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Exploring the Beauty of Nature",
+      "description": "Immerse yourself in the wonders of nature with breathtaking landscapes and serene environments. From towering mountains to tranquil lakes, let nature's charm captivate your senses and rejuvenate your soul.",
+      "likes_count": 150
+    },
+    {
+      "id": 2,
+      "title": "The Art of Culinary Delights",
+      "description": "Indulge in a culinary journey filled with flavors, aromas, and creativity. From gourmet cuisine to local delicacies, experience the joy of food that tantalizes your taste buds and leaves you craving for more.",
+      "likes_count": 230
+    },
+    {
+      "id": 3,
+      "title": "Unveiling Ancient Mysteries",
+      "description": "Embark on an archaeological adventure to uncover the secrets of ancient civilizations. Explore lost cities, decipher ancient scripts, and delve into the mysteries that have puzzled historians for centuries.",
+      "likes_count": 180
+    },
+    {
+      "id": 4,
+      "title": "Inspirational Stories of Triumph",
+      "description": "Discover stories of resilience, courage, and triumph over adversity. From overcoming obstacles to achieving remarkable feats, these tales will inspire you to believe in the power of the human spirit.",
+      "likes_count": 320
+    },
+    {
+      "id": 5,
+      "title": "Capturing Moments Through Photography",
+      "description": "Capture the beauty of life's fleeting moments through the lens of a camera. From majestic sunsets to candid portraits, let photography be your medium of expression and storytelling.",
+      "likes_count": 270
+    },
+    {
+      "id": 6,
+      "title": "Embracing the Magic of Music",
+      "description": "Immerse yourself in the enchanting world of music that transcends boundaries and speaks to the soul. From classical symphonies to modern melodies, let the power of music uplift and inspire you.",
+      "likes_count": 200
+    }
+  ]
+}
