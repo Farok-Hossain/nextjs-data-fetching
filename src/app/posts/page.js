@@ -8,7 +8,7 @@ const PostsPage = async () => {
   //   console.log(posts);
   return (
     <div className="w-full">
-      <h1 className="text-3xl">Total Posts: {posts.length} </h1>
+      <h1 className="text-3xl">Total Postsssssss: {posts.length} </h1>
       {posts.map((post) => (
         <div
           key={post.id}
