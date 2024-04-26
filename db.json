@@ -2,9 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "title": "Exploring the Beauty of Nature",
+      "title": "Exploring all the Beauty of Nature",
       "description": "Immerse yourself in the wonders of nature with breathtaking landscapes and serene environments. From towering mountains to tranquil lakes, let nature's charm captivate your senses and rejuvenate your soul.",
-      "likes_count": 150
+      "likes_count": 350
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "id": 3,
       "title": "Unveiling Ancient Mysteries",
       "description": "Embark on an archaeological adventure to uncover the secrets of ancient civilizations. Explore lost cities, decipher ancient scripts, and delve into the mysteries that have puzzled historians for centuries.",
-      "likes_count": 180
+      "likes_count": 280
     },
     {
       "id": 4,
